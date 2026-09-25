@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# 編輯器 / 系統
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
